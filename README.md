@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 18,2018
 
 ### Student Name:  
-(First and Last Name)
+Cecilia Kauffman
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment taught and tested our ability to use javascript to do mathamatical calculations and code them correctly to make a fucntioning web application.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://github.com/ceciliakauffman/lesson4_javascript1.git
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to edit and add to a premade web application.
+2. I learned how to add variables for formulas.
+3. I learned how to calculate the outcome of a formula using Javascript.
 
 
 
